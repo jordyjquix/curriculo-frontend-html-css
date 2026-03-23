@@ -1,4 +1,4 @@
-# Projeto: Currículo Profissional (HTML/CSS) - Repositório acadêmico voltado ao aprendizado.
+# Projeto #1: Currículo Profissional (HTML/CSS) - Repositório acadêmico voltado ao aprendizado.
 
 Este é o meu primeiro projeto prático focado nos fundamentos do desenvolvimento web front-end. O objetivo foi aplicar conceitos essenciais de estruturação e estilização, criando um currículo online, limpo e bem organizado.
 
